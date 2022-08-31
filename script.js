@@ -1,15 +1,15 @@
 var arraySlid=[
     {
         title:"Leader de la géolocalisation <br> dans votre région",
-        img:"/images/slide1.jpg"
+        img:"slide1.jpg"
     },
     {
         title:"Le boitier gps de géolocalisation <br> le plus évolutif sur le marché",
-        img:"/images/slide2.jpg"
+        img:"slide2.jpg"
     },
     {
         title:"Solution complète de localisation<br> Gps pour votre flotte",
-        img:"/images/slide6.jpg"
+        img:"slide6.jpg"
     },
 ];
 var i=0;
